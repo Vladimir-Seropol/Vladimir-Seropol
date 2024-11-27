@@ -47,7 +47,8 @@
 
 • Планировщик задач (Vue.js):  Ссылка (https://19-7l5qwhrlv-vladimirs-projects-a719aa24.vercel.app/)
 
-• Weather App: Веб-приложение для поиска информации о погоде и ведения заметок. Ссылка (http://frontender23.ru/  https://test2-0-woad.vercel.app/)
+• Weather App: Веб-приложение для поиска информации о погоде и ведения заметок. Ссылка (http://frontender23.ru/)  ( 
+             https://test2-0-woad.vercel.app/)
 
 • Планировщик задач (HTML, CSS/SASS):  Ссылка (https://vladimir-seropol.github.io/11.1/)
 
