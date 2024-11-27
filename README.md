@@ -43,7 +43,7 @@
 
 • React Sneakers: Интернет-магазин обуви. Ссылка (https://graduation-project-ae60ktnke-vladimirs-projects-a719aa24.vercel.app/)
 
-• Игра «Запомни пары»:  Ссылка (https://ds-react-game-jq7h.vercel.app/)
+• Игра «Запомни пары»:  Ссылка (https://ds-react-game-2-0.vercel.app/)
 
 • Планировщик задач (Vue.js):  Ссылка (https://19-7l5qwhrlv-vladimirs-projects-a719aa24.vercel.app/)
 
