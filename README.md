@@ -8,9 +8,9 @@
 
 Мои навыки:
 
-• TypeScript:  Опыт использования в проектах React Sneakers и Игра «Запомни пары».
+• TypeScript:  Опыт использования в проектах React Sneakers, проект «Канбан» и Игра «Запомни пары».
 
-• React:  Ключевой инструмент в разработке React Sneakers и Игры «Запомни пары».
+• React:  Ключевой инструмент в разработке React Sneakers, проект «Канбан» и Игры «Запомни пары».
 
 • Redux Toolkit:  Использован в React Sneakers для управления состоянием приложения.
 
@@ -44,6 +44,10 @@
 Мои проекты:
 
 • React Sneakers: Интернет-магазин обуви. Ссылка (https://graduation-project-ae60ktnke-vladimirs-projects-a719aa24.vercel.app/)
+
+• Проект «Канбан». Ссылка (https://kanban-task-tracker1.vercel.app/) (для входа:
+glavarevchet@digital-sector.ru
+e7SvT9G35Bf6JqktRLXyQb)
 
 • Игра «Запомни пары»:  Ссылка (https://ds-react-game-2-0.vercel.app/)
 
