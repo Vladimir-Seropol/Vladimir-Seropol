@@ -24,11 +24,16 @@ JavaScript (ES6+), React (ReactJS), HTML (HTML5), CSS (CSS3, SCSS, LESS), TypeSc
 
 Мои проекты:
 
-• React Sneakers: Интернет-магазин обуви. Ссылка (https://graduation-project-ae60ktnke-vladimirs-projects-a719aa24.vercel.app/)
+• React Sneakers: Интернет-магазин обуви. Ссылка (https://sneakers-project-xi.vercel.app/) 
+github:(https://github.com/Vladimir-Seropol/SneakersProject)
 
 • Проект «Канбан». Ссылка (https://kanban-task-tracker1.vercel.app/) (для входа:
 glavarevchet@digital-sector.ru
 e7SvT9G35Bf6JqktRLXyQb)
+github: (https://github.com/Vladimir-Seropol/kanban-task-tracker1)
+
+• mail.ru-test-task_React_TS: Тестововая работа. Ссылка (https://practical-react-taupe.vercel.app/)
+github: (https://github.com/Vladimir-Seropol/mail.ru-test-task_React_TS)
 
 
 
