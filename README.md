@@ -17,8 +17,8 @@
 
 • React Router:  Применен в React Sneakers и Игре «Запомни пары» для организации навигации.
 
-• Vue.js:  Опыт разработки одностраStack:
-JavaScript (ES6+), React (ReactJS), HTML (HTML5), CSS (CSS3, SCSS, LESS), TypeScript, Redux, Redux Toolkit (RTK), Git (GitLab, GitHub, Bitbucket), Next.js (NextJS, SSR), Webpack, Vite, REST API(RESTful), Styled Components, Material UI (MUI), Ant Design (AntD), Tailwind CSS, Jest, GraphQL, Figma, Agile, Scrum, Docker, CI, CD, RxJS, Electron, Bloc, MobX, Node.js (NodeJS, npm), DRY Principles, Jira.
+• Vue.js:  Опыт разработки одностраничных приложений.
+Stack:JavaScript (ES6+), React (ReactJS), HTML (HTML5), CSS (CSS3, SCSS, LESS), TypeScript, Redux, Redux Toolkit (RTK), Git (GitLab, GitHub, Bitbucket), Next.js (NextJS, SSR), Webpack, Vite, REST API(RESTful), Styled Components, Material UI (MUI), Ant Design (AntD), Tailwind CSS, Jest, GraphQL, Figma, Agile, Scrum, Docker, CI, CD, RxJS, Electron, Bloc, MobX, Node.js (NodeJS, npm), DRY Principles, Jira.
 
 
 
