@@ -8,8 +8,12 @@
  
 Stack:JavaScript (ES6+), React (ReactJS), HTML (HTML5), CSS (CSS3, SCSS, LESS), TypeScript, Redux, Redux Toolkit (RTK), Git (GitLab, GitHub, Bitbucket), Next.js (NextJS, SSR), Webpack, Vite, REST API(RESTful), Styled Components, Material UI (MUI), Ant Design (AntD), Tailwind CSS, Jest, GraphQL, Figma, Agile, Scrum, Docker, CI, CD, RxJS, Electron, Bloc, MobX, Node.js (NodeJS, npm), DRY Principles, Jira.
 
+
 Мои проекты:
+
+
 •  Weeek
+
 Таск-трекер проектов и задач weeek. Команда канбан доски
 - реализовал функционал кастомизации колонок канбан-доски на react, typescript, redux, rtk,
 scss, html, с сохранением в backend api, что увеличило удовлетворенность пользователей на
@@ -27,7 +31,9 @@ rtk, typescript, что сократило время поиска нужных 
 - добавил в модальное окно создания/редактирования задач возможность прикреплять файлы,
 а также добавлять несколько исполнителей к задаче, на react, typescript, redux, scss
 
+
 • "Кубань Кредит"
+
 Работал в двух проектах по рассмотрению кредитных заявок Юрлиц и Физлиц
 - разработал граф связей юрлица при помощи react, javascript, redux, AntV
 - разработал экраны аналитики с таблицами и графиками на react, typescript, javascript, redux
